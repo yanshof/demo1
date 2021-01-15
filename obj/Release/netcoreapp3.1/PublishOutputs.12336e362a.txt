@@ -1,0 +1,7 @@
+C:\WORKSPACE\Azure\demo-web-app\demo1\obj\Release\netcoreapp3.1\PubTmp\Out\demo.exe
+C:\WORKSPACE\Azure\demo-web-app\demo1\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\WORKSPACE\Azure\demo-web-app\demo1\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\WORKSPACE\Azure\demo-web-app\demo1\obj\Release\netcoreapp3.1\PubTmp\Out\demo.dll
+C:\WORKSPACE\Azure\demo-web-app\demo1\obj\Release\netcoreapp3.1\PubTmp\Out\demo.deps.json
+C:\WORKSPACE\Azure\demo-web-app\demo1\obj\Release\netcoreapp3.1\PubTmp\Out\demo.runtimeconfig.json
+C:\WORKSPACE\Azure\demo-web-app\demo1\obj\Release\netcoreapp3.1\PubTmp\Out\demo.pdb

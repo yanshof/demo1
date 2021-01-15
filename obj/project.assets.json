@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\WORKSPACE\\Azure\\demo-web-app\\demo\\demo.csproj",
+      "projectUniqueName": "C:\\WORKSPACE\\Azure\\demo-web-app\\demo1\\demo.csproj",
       "projectName": "demo",
-      "projectPath": "C:\\WORKSPACE\\Azure\\demo-web-app\\demo\\demo.csproj",
+      "projectPath": "C:\\WORKSPACE\\Azure\\demo-web-app\\demo1\\demo.csproj",
       "packagesPath": "C:\\Users\\Roni\\.nuget\\packages\\",
-      "outputPath": "C:\\WORKSPACE\\Azure\\demo-web-app\\demo\\obj\\",
+      "outputPath": "C:\\WORKSPACE\\Azure\\demo-web-app\\demo1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
